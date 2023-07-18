@@ -1,3 +1,5 @@
+// https://gobyexample.com/multiple-return-values
+
 package main
 
 import "fmt"

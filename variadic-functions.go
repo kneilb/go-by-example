@@ -1,3 +1,5 @@
+// https://gobyexample.com/variadic-functions
+
 package main
 
 import "fmt"

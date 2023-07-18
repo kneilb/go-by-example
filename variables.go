@@ -1,3 +1,5 @@
+// https://gobyexample.com/variables
+
 package main
 
 import "fmt"

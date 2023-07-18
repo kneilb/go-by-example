@@ -1,3 +1,5 @@
+// https://gobyexample.com/constants
+
 package main
 
 import (

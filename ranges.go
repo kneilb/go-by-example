@@ -1,3 +1,5 @@
+// https://gobyexample.com/range
+
 package main
 
 import "fmt"

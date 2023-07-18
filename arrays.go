@@ -1,3 +1,5 @@
+// https://gobyexample.com/arrays
+
 package main
 
 import "fmt"

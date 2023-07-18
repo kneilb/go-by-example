@@ -1,3 +1,5 @@
+// https://gobyexample.com/switch
+
 package main
 
 import (
