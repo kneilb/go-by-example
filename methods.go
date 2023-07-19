@@ -1,3 +1,5 @@
+// https://gobyexample.com/methods
+
 package main
 
 import "fmt"
